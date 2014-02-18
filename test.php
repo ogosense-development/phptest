@@ -16,7 +16,7 @@ else
 	$result = mysqli_query($con, $query);
 	while($row = mysqli_fetch_array($result))
 	{
-		echo "Hello World!";
+		echo "Aleksandar::OGOSense";
 	}
 }
 
